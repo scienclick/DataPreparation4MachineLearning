@@ -27,13 +27,21 @@ There is a data set called *bp2018.csv*  in this project which contains *British
 The notebook file is called **DataPreparation4MachineLearning.ipynb** and includes the following sections:
 
 ** Part 0: loading data**
+
 ** Part 1: Getting to know the data**
+
 ** Part 2: null value investigation**
+
 ** Part 3: dropping duplicates**
+
 ** Part 4: Converting the object to appropriate type and parsing dates**
+
 ** Part 5: Imputation**
+
 ** Part 6: Getting dummy variables**
+
 ** Part 7: Finding and removing outliers**
+
 ** Part 8: Scaling and Transforms**
 
 ## References
